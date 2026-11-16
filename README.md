@@ -33,7 +33,7 @@ Or open `game/index.html` directly in a desktop browser. No network requests, no
 
 ## Screenshots
 
-The PNGs in `screenshots/` are **PLACEHOLDERS drawn with PIL** so the entry builds end to end. Before submitting, replace them with real renders of the game's `?shot=` scenes (1280×720, each ≤256 KiB).
+The PNGs in `screenshots/` are real renders of the game's `?shot=` scenes (1280×666, each ≤256 KiB), taken in a browser from the game itself: menu, gameplay, boss, end screen.
 
 ## Build
 
